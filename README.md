@@ -1,4 +1,4 @@
-# vue-devtools
+# vue-devtools without config.devtools restriction
 
 <p align="center"><img width="720px" src="https://raw.githubusercontent.com/vuejs/vue-devtools/dev/media/screenshot-shadow.png" alt="screenshot"></p>
 
